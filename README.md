@@ -1,5 +1,4 @@
-# thesis
-# Predictive Maintenance for Wind Turbines: RUL Prediction using Time-Series Models
+# Wind Turbine RUL Prediction with Machine Learning
 
 ![GitHub Banner](https://user-images.githubusercontent.com/3997099/121780442-799a0e80-cb3b-11eb-9880-a2f0412613b9.png) This project focuses on the predictive maintenance of wind turbines by estimating the Remaining Useful Life (RUL) of their components. The primary goal is to build and evaluate various time-series forecasting models to predict the degradation of a wind turbine's health over time, which is crucial for scheduling maintenance and preventing unexpected failures.
 
@@ -100,6 +99,15 @@ The following Python libraries are required to run the notebooks:
 * `torch`
 * `statsmodels`
 * `prophet`
+  
+## 🙏 Acknowledgments
+
+This work is the result of my thesis project, "Predictive Maintenance for Wind Turbines: RUL Prediction using Time-Series Models," submitted in partial fulfillment of the requirements for the **Master's degree in Risk Analysis, with a specialization in Engineering Risk Analysis and Management**, at the **University of Stavanger, Norway**.
+
+I would like to express my sincere gratitude to my supervisor, and colleagues, for their invaluable guidance, support, and encouragement throughout this research. Their expertise was instrumental in shaping this project.
+
+My special thanks go to **MathWorks** for making the "Wind Turbine High-Speed Bearing Prognosis" dataset publicly available. This resource was fundamental to the analysis and development of the predictive models presented in this work.
+
 
 You can install them via pip:
 ```bash
